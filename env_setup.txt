@@ -1,0 +1,278 @@
+Environmental Setup to Develop Full Stack UI Applications
+---------------------------------------------------------
+
+1) download and install NodeJS
+
+	- "NodeJS" is the server side scripting language.
+
+	- "NodeJS" used to develop the servers.
+
+		Http Server
+
+		TCP Server
+
+	- Latest Softwares like Angular, ReactJS,VueJS,.... 
+	  installations Depending on Node Server.
+
+website : https://nodejs.org/en/download/
+
+file    : node-v12.13.0-x64.msi
+
+	- "msi" stands for microsoft installer
+
+
+2) download and install Git
+
+	- "Git" is the open source repository maintained by
+	  microsoft.
+
+	- "Git" repository containes so many open source libraries
+	  related to Angular,NodeJS,VueJS,.....
+
+website : https://git-scm.com/download/win
+
+file    : Git-2.24.0.2-64-bit.exe
+
+
+
+3) install "nodemon" software
+
+	- "nodemon" is the tool given by node js.
+
+	- "nodemon" used to execute the javascript applications
+	  in live mode.
+
+	- we will install "nodemon" by using following command.
+
+	> npm install -g nodemon@latest
+
+	- "npm" stands for node packaging manager.
+
+	- "npm" is the tool given by node js.
+
+	- "-g" stands for global installation.
+
+
+
+4) download and install VisualStudioCode
+
+	- "VisualStudioCode" is the IDE given by Microsoft.
+
+	- "VisualStudioCode" IDE used to develop the UI Applications
+	  like 
+		JavaScript
+	        TypeScript
+		Angular
+		ReactJS
+		VueJS
+		MEAN Stack
+		MERN Stack
+		----
+		----
+		----
+
+	- VisualStudioCode IDE is the open source IDE.
+
+
+website : https://code.visualstudio.com/docs/?dv=win
+
+file    : VSCodeUserSetup-x64-1.40.0.exe
+
+
+
+5) install yarn tool
+
+	- "yarn" is the tool given by facebook.
+
+	- "yarn" tool used to download the libraries from Git.
+
+	- we will install "yarn" tool by using following command.
+
+	> npm install -g yarn@latest
+
+
+
+6) install Angular9
+
+	- we will install Angular9 by using following command.
+
+	> npm install -g @angular/cli@latest
+
+	- cli stands for "command line interface"
+
+	- cli is the tool given by angular.
+
+	- cli tool used to build the angular9 applications
+
+
+
+7) install ReactJS
+
+	- we will install ReactJS by using following command.
+
+	> npm install -g create-react-app@latest
+
+	- "create-react-app" is the tool given by facebook.
+
+	- "create-react-app" tool used to build the React Applications
+
+
+8) download and install Postman
+
+	- providing the communication between different technologies
+	  called as WebServices  (Rest API'S)
+
+	- we will test rest api's by using "Postman".
+
+	- we will download Postman by using following website
+
+website : https://www.getpostman.com/downloads/
+
+file    : Postman-win64-7.11.0-Setup.exe
+
+
+
+			**** GitHub Environement ****
+
+
+=> GitHub is the Repository.
+
+=> GitHub is open source Repository maintained by google.
+
+=> in real world, all projects must and should connect to repository.
+
+=> because of repository, parallel development possible.
+
+=> because of repositories, productivity will be incresed.
+
+
+Topics
+------
+
+1) installation of Git.
+
+2) create the GitHub Account.
+
+3) Create the Repository in GitHub.
+
+4) Commit & Push the Projects to GitHub.
+
+5) Pull the Projects from GitHub.
+
+		***** installation of Git *****
+
+	- GitHub is the repository.
+
+	- to Interact with GitHub we need "Git" software.
+
+
+website : https://git-scm.com/download/win
+
+file    : Git-2.24.0.2-64-bit.exe
+
+
+
+		***** create the GitHub Account *****
+
+
+we will visit following website to create the GitHub Account
+
+
+URL : https://github.com/
+
+	- once if we create account, 
+	  please remember GitHub Credentials
+
+User Email : xxxxxxxxxxx
+
+Password  : xxxxxxxxxxx
+
+
+		**** Create the Repository in GitHub ****
+
+
+URL : https://github.com/ajsnaresh/UIClasses.git
+
+	above "URL" representing repository path.
+
+	in above repository, we can perform PUSH & PULL Operations.
+
+
+
+	    **** Commit & Push the Projects to GitHub ****
+
+=> link the "GitHub" to "Git tool" by using "Git Bash".
+
+
+	Open the GitBash Terminal in windows and execute 
+	the following Commands
+
+
+	> git config --global user.email "xxxxxxxxxx"
+
+	> git config --global user.name "xxxxxxx"
+
+
+=> open the "VSCode IDE"  (Visual Studio Code)
+
+=> Commit the files  (p_1.png)
+
+=> add the cloud repository Address
+
+	- Open the Terminal in VSCode (view=>terminal)
+
+	- execute the following command
+
+	> git remote add origin 
+	  https://github.com/ajsnaresh/UIClasses.git
+
+=> push files to GitHub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
